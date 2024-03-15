@@ -6,7 +6,7 @@ from os import path as osp
 from torch import nn as nn
 from torch.nn import functional as F
 from sklearn.cluster import DBSCAN
-from torch_scatter import scatter
+# from torch_scatter import scatter
 import time
 from mmdet3d.core import draw_heatmap_gaussian
 import cv2
