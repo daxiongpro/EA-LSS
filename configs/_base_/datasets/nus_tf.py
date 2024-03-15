@@ -6,7 +6,7 @@ class_names = [
 voxel_size = [0.075, 0.075, 0.2]
 
 dataset_type = 'NuScenesDataset'
-data_root = '/dahuafs/groupdata/share/openset/nuscenes/'
+data_root = 'data/nuscenes/'
 input_modality = dict(
     use_lidar=True,
     use_camera=True,
