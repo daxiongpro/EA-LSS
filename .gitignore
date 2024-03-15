@@ -1,0 +1,6 @@
+__pycache__
+build/
+.vscode
+data/
+mmdet3d.egg-info
+*.so
